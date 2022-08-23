@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/asper_dashboard/static/css/main.d27df7cd.css",
-    "main.js": "/asper_dashboard/static/js/main.84229923.js",
+    "main.js": "/asper_dashboard/static/js/main.ed5dee25.js",
     "static/js/787.e850a499.chunk.js": "/asper_dashboard/static/js/787.e850a499.chunk.js",
     "static/media/avatar.webp": "/asper_dashboard/static/media/avatar.feb26ba66f1e61e1a88e.webp",
     "index.html": "/asper_dashboard/index.html",
     "main.d27df7cd.css.map": "/asper_dashboard/static/css/main.d27df7cd.css.map",
-    "main.84229923.js.map": "/asper_dashboard/static/js/main.84229923.js.map",
+    "main.ed5dee25.js.map": "/asper_dashboard/static/js/main.ed5dee25.js.map",
     "787.e850a499.chunk.js.map": "/asper_dashboard/static/js/787.e850a499.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d27df7cd.css",
-    "static/js/main.84229923.js"
+    "static/js/main.ed5dee25.js"
   ]
 }
